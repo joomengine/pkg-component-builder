@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.8" type="package" method="upgrade">
+	<name>PKG_COMPONENT_BUILDER</name>
+	<packagename>component_builder</packagename>
+	<version>2.12.10</version>
+	<creationDate>December 2021</creationDate>
+	<author>Llewellyn van der Merwe</author>
+	<authorEmail>llewellyn@joomlacomponentbuilder.com</authorEmail>
+	<authorUrl>http://www.joomlacomponentbuilder.com/</authorUrl>
+	<copyright>Copyright (C) 2015 Llewellyn van der Merwe. All rights reserved.</copyright>
+	<copyrightyear>2015</copyrightyear>
+	<license>GNU General Public License version 2; see LICENSE</license>
+	<packager>Vast Development Method</packager>
+	<packagerurl>https://dev.vdm.io/</packagerurl>
+	<description>The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.</description>
+	<updateservers>
+		<server type="extension" name="Component Builder Package - Updates" element="pkg_component_builder">https://io.vdm.dev/update/componentbuilder_public_update_server.xml</server>
+	</updateservers>
+	<languages folder="languages">
+		<language tag="en-GB">en-GB/en-GB.pkg_component_builder.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.pkg_component_builder.ini</language>
+	</languages>
+	<files folder="src">
+		<file type="component" id="com_componentbuilder">joomla__Component-Builder__v2.12.10.zip</file>
+		<file type="plugin" id="ComponentBuilderAdminHeadersTabs" group="content">joomla__plg_content_componentbuilderadminheaderstabs-v1.0.1.zip</file>
+		<file type="plugin" id="ComponentBuilderComponentHeadersTabs" group="content">joomla__plg_content_componentbuildercomponentheaderstabs-v1.0.0.zip</file>
+		<file type="plugin" id="ComponentBuilderCustomAdminHeadersTabs" group="content">joomla__plg_content_componentbuildercustomadminheaderstabs-v1.0.1.zip</file>
+		<file type="plugin" id="ComponentBuilderFieldOrderingTabs" group="content">joomla__plg_content_componentbuilderfieldorderingtabs-v1.0.0.zip</file>
+		<file type="plugin" id="ComponentBuilderLanguageTabs" group="content">joomla__plg_content_componentbuilderlanguagetabs-v1.0.0.zip</file>
+		<file type="plugin" id="ComponentBuilderPrivacyTabs" group="content">joomla__plg_content_componentbuilderprivacytabs-v1.0.0.zip</file>
+		<file type="plugin" id="ComponentBuilderSiteHeadersTabs" group="content">joomla__plg_content_componentbuildersiteheaderstabs-v1.0.0.zip</file>
+		<file type="plugin" id="ComponentBuilderActionLogCompiler" group="extension">joomla__plg_extension_componentbuilderactionlogcompiler-v1.0.2.zip</file>
+		<file type="plugin" id="ComponentBuilderExportCompiler" group="extension">joomla__plg_extension_componentbuilderexportcompiler-v1.0.1.zip</file>
+		<file type="plugin" id="ComponentBuilderFieldOrderingCompiler" group="extension">joomla__plg_extension_componentbuilderfieldorderingcompiler-v1.0.0.zip</file>
+		<file type="plugin" id="ComponentBuilderHeadersCompiler" group="extension">joomla__plg_extension_componentbuilderheaderscompiler-v1.0.5.zip</file>
+		<file type="plugin" id="ComponentBuilderLanguagePackaging" group="extension">joomla__plg_extension_componentbuilderlanguagepackaging-v1.0.0.zip</file>
+		<file type="plugin" id="ComponentBuilderPrivacyCompiler" group="extension">joomla__plg_extension_componentbuilderprivacycompiler-v1.0.0.zip</file>
+	</files>
+</extension>
