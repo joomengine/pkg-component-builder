@@ -6,7 +6,7 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](http://www.joomlacomponentbuilder.com/)
-- Creation Date: January 2022
+- Creation Date: February 2022
 - Max Joomla Version: J3.10
 - Minimum Joomla Version: J3.8
 
