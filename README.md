@@ -1,4 +1,4 @@
-# Component Builder Package (v2.12.15)
+# Component Builder Package (v2.12.16)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.
 
@@ -6,14 +6,14 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](http://www.joomlacomponentbuilder.com/)
-- Creation Date: February 2022
+- Creation Date: April 2022
 - Max Joomla Version: J3.10
 - Minimum Joomla Version: J3.8
 
 ## Extensions
 
-- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v2.12.15](https://git.vdm.dev/joomla/Component-Builder/archive/v2.12.15.zip)
-> Updates marked JS package. Adds more events to the compiler. Fix gh-841 database issue (IF NOT EXISTS). Update Agerix banner link. Adds more clone options.
+- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v2.12.16](https://git.vdm.dev/joomla/Component-Builder/archive/v2.12.16.zip)
+> Adds new helper classes.
 - [joomla/plg_content_componentbuilderadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs) [v1.0.1](https://git.vdm.dev/attachments/8bb051d0-947f-4849-9659-0145918543ab)
 > Plugin for adding header code to admin area - tabs (2021-10-01)
 - [joomla/plg_content_componentbuildercomponentheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentheaderstabs) [v1.0.0](https://git.vdm.dev/attachments/f919fc1d-9e2b-4f80-8ac6-c49f651d7c47)
