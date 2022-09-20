@@ -1,4 +1,4 @@
-# Component Builder Package (v3.1.6)
+# Component Builder Package (v3.1.7)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.
 
@@ -12,8 +12,8 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 ## Extensions
 
-- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v3.1.6](https://git.vdm.dev/joomla/Component-Builder/archive/v3.1.6.zip)
-> Adds licensing template option to the powers area.
+- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v3.1.7](https://git.vdm.dev/joomla/Component-Builder/archive/v3.1.7.zip)
+> Fixed power include issue.
 - [joomla/plg_content_componentbuilderadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs) [v2.0.0](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs/archive/v2.0.0.zip)
 > update - v2.0.0
 - [joomla/plg_content_componentbuildercomponentdashboardheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs) [v2.0.0](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs/archive/v2.0.0.zip)
@@ -38,8 +38,8 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 > update - v1.0.1
 - [joomla/plg_extension_componentbuilderfieldorderingcompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderfieldorderingcompiler) [v1.0.1](https://git.vdm.dev/joomla/plg_extension_componentbuilderfieldorderingcompiler/archive/v1.0.1.zip)
 > update - v1.0.1
-- [joomla/plg_extension_componentbuilderheaderscompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler) [v2.1.0](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler/archive/v2.1.0.zip)
-> update - v2.1.0
+- [joomla/plg_extension_componentbuilderheaderscompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler) [v2.1.1](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler/archive/v2.1.1.zip)
+> update - v2.1.1
 - [joomla/plg_extension_componentbuilderlanguagepackaging](https://git.vdm.dev/joomla/plg_extension_componentbuilderlanguagepackaging) [v1.0.1](https://git.vdm.dev/joomla/plg_extension_componentbuilderlanguagepackaging/archive/v1.0.1.zip)
 > update - v1.0.1
 - [joomla/plg_extension_componentbuilderpowersautoloadercompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderpowersautoloadercompiler) [v1.0.2](https://git.vdm.dev/joomla/plg_extension_componentbuilderpowersautoloadercompiler/archive/v1.0.2.zip)
