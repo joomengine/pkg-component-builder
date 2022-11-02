@@ -1,4 +1,4 @@
-# Component Builder Package (v3.1.9)
+# Component Builder Package (v3.1.10)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.
 
@@ -6,14 +6,14 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: October 2022
+- Creation Date: November 2022
 - Max Joomla Version: J3.10
 - Minimum Joomla Version: J3.8
 
 ## Extensions
 
-- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v3.1.9](https://git.vdm.dev/joomla/Component-Builder/archive/v3.1.9.zip)
-> Moved some class around for better structure in the jcb_powers of JCB. Fixed small issue with JCB package export.
+- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v3.1.10](https://git.vdm.dev/joomla/Component-Builder/archive/v3.1.10.zip)
+> Adds beta search engine to JCB.
 - [joomla/plg_content_componentbuilderadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs) [v2.0.1](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs/archive/v2.0.1.zip)
 > update - v2.0.1
 - [joomla/plg_content_componentbuildercomponentdashboardheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs) [v2.0.1](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs/archive/v2.0.1.zip)
