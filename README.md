@@ -1,4 +1,4 @@
-# Component Builder Package (v3.1.10)
+# Component Builder Package (v3.1.11)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.
 
@@ -12,8 +12,8 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 ## Extensions
 
-- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v3.1.10](https://git.vdm.dev/joomla/Component-Builder/archive/v3.1.10.zip)
-> Adds beta search engine to JCB.
+- [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [v3.1.11](https://git.vdm.dev/joomla/Component-Builder/archive/v3.1.11.zip)
+> Release search stable BETA.
 - [joomla/plg_content_componentbuilderadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs) [v2.0.1](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs/archive/v2.0.1.zip)
 > update - v2.0.1
 - [joomla/plg_content_componentbuildercomponentdashboardheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs) [v2.0.1](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs/archive/v2.0.1.zip)
