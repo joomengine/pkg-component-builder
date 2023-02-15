@@ -2,7 +2,7 @@
 <extension version="3.8" type="package" method="upgrade">
 	<name>PKG_COMPONENT_BUILDER</name>
 	<packagename>component_builder</packagename>
-	<version>3.1.15</version>
+	<version>3.1.17</version>
 	<creationDate>February 2023</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
@@ -21,7 +21,7 @@
 		<language tag="en-GB">en-GB/en-GB.pkg_component_builder.ini</language>
 	</languages>
 	<files folder="src">
-		<file type="component" id="com_componentbuilder">joomla__Component-Builder__v3.1.15.zip</file>
+		<file type="component" id="com_componentbuilder">joomla__Component-Builder__v3.1.17.zip</file>
 		<file type="plugin" id="ComponentBuilderAdminHeadersTabs" group="content">joomla__plg_content_componentbuilderadminheaderstabs__v2.0.1.zip</file>
 		<file type="plugin" id="ComponentBuilderComponentDashboardHeadersTabs" group="content">joomla__plg_content_componentbuildercomponentdashboardheaderstabs__v2.0.1.zip</file>
 		<file type="plugin" id="ComponentBuilderComponentHeadersTabs" group="content">joomla__plg_content_componentbuildercomponentheaderstabs__v2.0.1.zip</file>
@@ -34,7 +34,7 @@
 		<file type="plugin" id="ComponentBuilderActionLogCompiler" group="extension">joomla__plg_extension_componentbuilderactionlogcompiler__v1.1.0.zip</file>
 		<file type="plugin" id="ComponentBuilderExportCompiler" group="extension">joomla__plg_extension_componentbuilderexportcompiler__v1.1.0.zip</file>
 		<file type="plugin" id="ComponentBuilderFieldOrderingCompiler" group="extension">joomla__plg_extension_componentbuilderfieldorderingcompiler__v1.0.2.zip</file>
-		<file type="plugin" id="ComponentBuilderHeadersCompiler" group="extension">joomla__plg_extension_componentbuilderheaderscompiler__v2.2.1.zip</file>
+		<file type="plugin" id="ComponentBuilderHeadersCompiler" group="extension">joomla__plg_extension_componentbuilderheaderscompiler__v2.2.2.zip</file>
 		<file type="plugin" id="ComponentBuilderLanguagePackaging" group="extension">joomla__plg_extension_componentbuilderlanguagepackaging__v1.1.4.zip</file>
 		<file type="plugin" id="ComponentBuilderPowersAutoloaderCompiler" group="extension">joomla__plg_extension_componentbuilderpowersautoloadercompiler__v1.1.0.zip</file>
 		<file type="plugin" id="ComponentBuilderPrivacyCompiler" group="extension">joomla__plg_extension_componentbuilderprivacycompiler__v1.1.3.zip</file>
