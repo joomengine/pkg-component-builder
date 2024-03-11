@@ -1,4 +1,4 @@
-# Component Builder Package (v5.0.0-alpha1)
+# Component Builder Package (v5.0.0-alpha2)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system for Joomla 5.
 
@@ -14,38 +14,38 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 - [joomla/Component-Builder](https://git.vdm.dev/joomla/Component-Builder) [5.x](https://git.vdm.dev/joomla/Component-Builder/archive/5.x.zip)
 > 5.x
-- [joomla/plg_content_componentbuilderadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuildercomponentdashboardheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuildercomponentheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentheaderstabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentheaderstabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuildercustomadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercustomadminheaderstabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuildercustomadminheaderstabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuilderfieldorderingtabs](https://git.vdm.dev/joomla/plg_content_componentbuilderfieldorderingtabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuilderfieldorderingtabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuilderlanguagetabs](https://git.vdm.dev/joomla/plg_content_componentbuilderlanguagetabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuilderlanguagetabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuilderprivacytabs](https://git.vdm.dev/joomla/plg_content_componentbuilderprivacytabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuilderprivacytabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuildersiteheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildersiteheaderstabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuildersiteheaderstabs/archive/master.zip)
-> master
-- [joomla/plg_content_componentbuilderdynamicgetheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderdynamicgetheaderstabs) [master](https://git.vdm.dev/joomla/plg_content_componentbuilderdynamicgetheaderstabs/archive/master.zip)
-> master
-- [joomla/plg_extension_componentbuilderactionlogcompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderactionlogcompiler) [master](https://git.vdm.dev/joomla/plg_extension_componentbuilderactionlogcompiler/archive/master.zip)
-> master
-- [joomla/plg_extension_componentbuilderexportcompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderexportcompiler) [master](https://git.vdm.dev/joomla/plg_extension_componentbuilderexportcompiler/archive/master.zip)
-> master
-- [joomla/plg_extension_componentbuilderfieldorderingcompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderfieldorderingcompiler) [master](https://git.vdm.dev/joomla/plg_extension_componentbuilderfieldorderingcompiler/archive/master.zip)
-> master
-- [joomla/plg_extension_componentbuilderheaderscompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler) [master](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler/archive/master.zip)
-> master
-- [joomla/plg_extension_componentbuilderlanguagepackaging](https://git.vdm.dev/joomla/plg_extension_componentbuilderlanguagepackaging) [master](https://git.vdm.dev/joomla/plg_extension_componentbuilderlanguagepackaging/archive/master.zip)
-> master
-- [joomla/plg_extension_componentbuilderpowersautoloadercompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderpowersautoloadercompiler) [master](https://git.vdm.dev/joomla/plg_extension_componentbuilderpowersautoloadercompiler/archive/master.zip)
-> master
-- [joomla/plg_extension_componentbuilderprivacycompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderprivacycompiler) [master](https://git.vdm.dev/joomla/plg_extension_componentbuilderprivacycompiler/archive/master.zip)
-> master
+- [joomla/plg_content_componentbuilderadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuilderadminheaderstabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuildercomponentdashboardheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentdashboardheaderstabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuildercomponentheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentheaderstabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuildercomponentheaderstabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuildercustomadminheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildercustomadminheaderstabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuildercustomadminheaderstabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuilderfieldorderingtabs](https://git.vdm.dev/joomla/plg_content_componentbuilderfieldorderingtabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuilderfieldorderingtabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuilderlanguagetabs](https://git.vdm.dev/joomla/plg_content_componentbuilderlanguagetabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuilderlanguagetabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuilderprivacytabs](https://git.vdm.dev/joomla/plg_content_componentbuilderprivacytabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuilderprivacytabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuildersiteheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuildersiteheaderstabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuildersiteheaderstabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_content_componentbuilderdynamicgetheaderstabs](https://git.vdm.dev/joomla/plg_content_componentbuilderdynamicgetheaderstabs) [5.x](https://git.vdm.dev/joomla/plg_content_componentbuilderdynamicgetheaderstabs/archive/5.x.zip)
+> 5.x
+- [joomla/plg_extension_componentbuilderactionlogcompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderactionlogcompiler) [5.x](https://git.vdm.dev/joomla/plg_extension_componentbuilderactionlogcompiler/archive/5.x.zip)
+> 5.x
+- [joomla/plg_extension_componentbuilderexportcompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderexportcompiler) [5.x](https://git.vdm.dev/joomla/plg_extension_componentbuilderexportcompiler/archive/5.x.zip)
+> 5.x
+- [joomla/plg_extension_componentbuilderfieldorderingcompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderfieldorderingcompiler) [5.x](https://git.vdm.dev/joomla/plg_extension_componentbuilderfieldorderingcompiler/archive/5.x.zip)
+> 5.x
+- [joomla/plg_extension_componentbuilderheaderscompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler) [5.x](https://git.vdm.dev/joomla/plg_extension_componentbuilderheaderscompiler/archive/5.x.zip)
+> 5.x
+- [joomla/plg_extension_componentbuilderlanguagepackaging](https://git.vdm.dev/joomla/plg_extension_componentbuilderlanguagepackaging) [5.x](https://git.vdm.dev/joomla/plg_extension_componentbuilderlanguagepackaging/archive/5.x.zip)
+> 5.x
+- [joomla/plg_extension_componentbuilderpowersautoloadercompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderpowersautoloadercompiler) [5.x](https://git.vdm.dev/joomla/plg_extension_componentbuilderpowersautoloadercompiler/archive/5.x.zip)
+> 5.x
+- [joomla/plg_extension_componentbuilderprivacycompiler](https://git.vdm.dev/joomla/plg_extension_componentbuilderprivacycompiler) [5.x](https://git.vdm.dev/joomla/plg_extension_componentbuilderprivacycompiler/archive/5.x.zip)
+> 5.x
 
 ### Copyright (2015)
 > Copyright (C) 2015 Llewellyn van der Merwe. All rights reserved.
