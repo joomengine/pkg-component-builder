@@ -2,7 +2,7 @@
 <extension version="3.8" type="package" method="upgrade">
 	<name>PKG_COMPONENT_BUILDER</name>
 	<packagename>component_builder</packagename>
-	<version>3.2.0-beta6</version>
+	<version>1.0.0</version>
 	<creationDate>March 2024</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
@@ -22,8 +22,6 @@
 		<language tag="en-GB">en-GB/en-GB.pkg_component_builder.ini</language>
 	</languages>
 	<files folder="src">
-		<file type="component" id="com_componentbuilder">joomla__Component-Builder__3.x.zip</file>
-		<file type="plugin" id="ComponentBuilderAdminHeadersTabs" group="content">joomla__plg_content_componentbuilderadminheaderstabs__3.x.zip</file>
 		<file type="plugin" id="ComponentBuilderComponentDashboardHeadersTabs" group="content">joomla__plg_content_componentbuildercomponentdashboardheaderstabs__3.x.zip</file>
 		<file type="plugin" id="ComponentBuilderComponentHeadersTabs" group="content">joomla__plg_content_componentbuildercomponentheaderstabs__3.x.zip</file>
 		<file type="plugin" id="ComponentBuilderCustomAdminHeadersTabs" group="content">joomla__plg_content_componentbuildercustomadminheaderstabs__3.x.zip</file>
