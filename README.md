@@ -1,4 +1,4 @@
-# Component Builder Package (v3.2.0-beta9)
+# Component Builder Package (v3.2.0-beta10)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.
 
