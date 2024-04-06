@@ -1,4 +1,4 @@
-# Component Builder Package (v3.2.0)
+# Component Builder Package (v3.2.1-alpha1)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.
 
@@ -6,7 +6,7 @@ The Joomla Component Builder Package that bundles JCB Component and all the plug
 
 - Packager: [Vast Development Method](https://dev.vdm.io/)
 - Author: [Llewellyn van der Merwe](https://io.vdm.dev/)
-- Creation Date: March 2024
+- Creation Date: April 2024
 - Max Joomla Version: J3.10
 - Minimum Joomla Version: J3.8
 
