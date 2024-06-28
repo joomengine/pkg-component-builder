@@ -1,4 +1,4 @@
-# Component Builder Package (v3.2.2-alpha5)
+# Component Builder Package (v3.2.2-alpha6)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system.
 
