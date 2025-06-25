@@ -1,4 +1,4 @@
-# Component Builder Package (v5.1.1-beta4)
+# Component Builder Package (v5.1.1-beta5)
 
 The Joomla Component Builder Package that bundles JCB Component and all the plugins and features available into one package for easy install and update of your JCB system for Joomla 5.
 
