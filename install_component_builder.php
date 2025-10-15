@@ -44,7 +44,7 @@ class pkg_component_builderInstallerScript
 	 */
 	protected function updateServerLocation()
 	{
-		$location = "https://git.vdm.dev/joomla/Component-Builder/raw/branch/5.x/componentbuilder_update_server.xml";
+		$location = "https://raw.githubusercontent.com/joomengine/Joomla-Component-Builder/refs/heads/5.x/componentbuilder_update_server.xml";
 		$elements = ['pkg_component_builder', 'com_componentbuilder'];
 
 		// Get the Package Update Site Details
