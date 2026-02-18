@@ -118,7 +118,8 @@ class pkg_component_builderInstallerScript
 			'componentbuilderheaderscompiler',
 			'componentbuilderlanguagepackaging',
 			'componentbuilderpowersautoloadercompiler',
-			'componentbuilderprivacycompiler'
+			'componentbuilderprivacycompiler',
+			'componentbuildercommands'
 		];
 
 		// Create a new query object.

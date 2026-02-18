@@ -2,8 +2,8 @@
 <extension version="6.0" type="package" method="upgrade">
 	<name>PKG_COMPONENT_BUILDER</name>
 	<packagename>component_builder</packagename>
-	<version>6.1.3</version>
-	<creationDate>October 2025</creationDate>
+	<version>6.1.4</version>
+	<creationDate>February 2026</creationDate>
 	<author>Llewellyn van der Merwe</author>
 	<authorEmail>joomla@vdm.io</authorEmail>
 	<authorUrl>https://io.vdm.dev/</authorUrl>
@@ -40,5 +40,6 @@
 		<file type="plugin" id="ComponentBuilderLanguagePackaging" group="extension">joomla__plg_extension_componentbuilderlanguagepackaging__6.x.zip</file>
 		<file type="plugin" id="ComponentBuilderPowersAutoloaderCompiler" group="extension">joomla__plg_extension_componentbuilderpowersautoloadercompiler__6.x.zip</file>
 		<file type="plugin" id="ComponentBuilderPrivacyCompiler" group="extension">joomla__plg_extension_componentbuilderprivacycompiler__6.x.zip</file>
+		<file type="plugin" id="ComponentBuilderCommands" group="console">joomla__plg_console_componentbuildercommands__6.x.zip</file>
 	</files>
 </extension>
