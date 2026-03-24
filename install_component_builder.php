@@ -13,6 +13,7 @@
 defined('_JEXEC') or die('Restricted access');
 
 use Joomla\CMS\Factory;
+use Joomla\Database\DatabaseInterface;
 
 /**
  * Script File of Componentbuilder Package
@@ -45,12 +46,13 @@ class pkg_component_builderInstallerScript
 	protected function updateServerLocation()
 	{
 		$location = "https://raw.githubusercontent.com/joomengine/Joomla-Component-Builder/refs/heads/6.x/componentbuilder_update_server.xml";
-		$elements = ['pkg_component_builder', 'com_componentbuilder'];
+		$elements = ['pkg_component_builder', 'pkg_componentbuilder', 'com_componentbuilder'];
+		$db = Factory::getContainer()->get(DatabaseInterface::class);
 
 		// Get the Package Update Site Details
 		foreach ($elements as $element)
 		{
-			if (($sites = $this->getUpdateSites($element)) !== null)
+			if (($sites = $this->getUpdateSites($element, $db)) !== null)
 			{
 				foreach ($sites as $site)
 				{
@@ -58,7 +60,7 @@ class pkg_component_builderInstallerScript
 					{
 						// Update the update site location
 						$site->location = $location;
-						Factory::getDbo()->updateObject('#__update_sites', $site, 'update_site_id');
+						$db->updateObject('#__update_sites', $site, 'update_site_id');
 					}
 				}
 			}
@@ -70,11 +72,8 @@ class pkg_component_builderInstallerScript
 	 *
 	 * @return  array|null
 	 */
-	protected function getUpdateSites(string $element): ?array
+	protected function getUpdateSites(string $element, DatabaseInterface $db): ?array
 	{
-		// Get The Database object
-		$db = Factory::getDbo();
-
 		// Get the Package Update Site Details
 		$query = $db->getQuery(true);
 		$query->select($db->quoteName(array('s.location', 's.update_site_id')));
@@ -100,7 +99,7 @@ class pkg_component_builderInstallerScript
 	protected function enableJCBPlugins()
 	{
 		// Get The Database object
-		$db = Factory::getDbo();
+		$db = Factory::getContainer()->get(DatabaseInterface::class);
 		// enable all JCB plugins Always!
 		$plugins = [
 			'componentbuilderadminheaderstabs',
